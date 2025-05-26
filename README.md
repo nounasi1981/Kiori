@@ -18,7 +18,7 @@ Discord上で !ask コマンドを使って、ローカルのLM Studio上に載�
 ２，ダウンロードしたbot.pyを開いてね
 
 ディレクトリ構成（例）
-bot/
+kiori/
 ├── discord_lm_bot.py
 └── chat_histories/
     └── 123456789012345678.json  ← 各ユーザーの履歴
