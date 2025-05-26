@@ -1,4 +1,4 @@
-# solid-chainsaw
+# 記織 -Kiori-
 Discord上で !ask コマンドを使って、ローカルのLM Studio上に載っているLLM（例：Mistral, LLaMAなど）と会話するためのBOTです。
 
 必要なもの
